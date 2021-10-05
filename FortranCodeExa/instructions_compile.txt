@@ -1,0 +1,6 @@
+* file extension filename.f
+* compile on terminal using gfortran
+* install gfortran
+* gfortran   hello.f -o hello 
+  // creates executable file hello
+ run  ./hello to get the output
